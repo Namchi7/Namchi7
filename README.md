@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Namchi7
 - 👀 I’m a Front-end developer trying to become full stack devaloper. 
 - 🌱 I’m currently learning Front-end Development (ReactJs)
-- 📫 Reach me on LinkedIn at: https://www.linkedin.com/in/aman-kumar-bb9738171/
+- 📫 Reach me on LinkedIn at: https://www.linkedin.com/in/aman-kumar-akp
